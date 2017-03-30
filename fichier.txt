@@ -7,4 +7,11 @@ il est préférable d'utiliser
 un cours en ligne pour  bien 
 comprendre .
 Merci 
+<<<<<<< HEAD
 et si je fais une erreur 
+=======
+
+modification  pour  la nouvelle branche 
+>>>>>>> creer_une_branche
+
+On ajoute le texte Bonjour
