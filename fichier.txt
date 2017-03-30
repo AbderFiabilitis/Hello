@@ -1,1 +1,9 @@
 un fichier de travail 
+2 éme changement 
+Bonjour, on commence à apprendre 
+git ce n'est pas facile mais 
+il faut aller doucement 
+il est préférable d'utiliser 
+un cours en ligne pour  bien 
+comprendre .
+Merci 
